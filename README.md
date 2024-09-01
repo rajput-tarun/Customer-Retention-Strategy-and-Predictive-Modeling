@@ -1,7 +1,3 @@
-Here’s a README file based on your project, including predictive modeling and oversampling:
-
----
-
 # Customer Retention Strategy and Predictive Modeling
 
 This project involves analyzing the Telecom Churn Customer dataset to enhance customer retention strategies. The analysis was performed using Power BI, with a focus on visualizing churn patterns and developing predictive models.
@@ -38,7 +34,3 @@ This project involves analyzing the Telecom Churn Customer dataset to enhance cu
 ## Project Link
 
 For more details, please visit the project on GitHub: [Customer Retention Strategy and Predictive Modeling](https://github.com/rajput-tarun/Customer-Retention-Strategy-and-Predictive-Modeling)
-
----
-
-This README provides a comprehensive overview of your project, highlighting the key sections and methodologies used.
